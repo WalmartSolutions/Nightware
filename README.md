@@ -11,7 +11,8 @@ UI is so fking buggy and looks sh1t on a QuadHD monitor. Unsecured keylist goes 
 2. Unzip Nightware.
 3. Start Roblox Bloxstrap.
 4. Run Nightware.exe.
-5. Enjoy.
+5. Click on the "Person Icon" and "Submit" button in Nightware.
+6. Enjoy.
 
 # Credits
 ??? - Making this executor. </br>
