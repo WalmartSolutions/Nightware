@@ -6,6 +6,8 @@
 
 UI is so fking buggy and looks sh1t on a QuadHD monitor. Unsecured keylist goes hard...
 
+**Disclaimer:** Might not work on Windows 24H4
+
 # How To Use
 1. Download [Nightware.zip](https://github.com/WalmartSolutions/Nightware/raw/refs/heads/main/Nightware.zip) & [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
 2. Unzip Nightware.
